@@ -1461,7 +1461,7 @@
 /* DM Header */
 .privateChannelsHeaderContainer-1UWASm {
 	display: var(--Home-Direct-Messages-Header);
-	color: #CCCCCC;
+	color: #000000;
 	text-align: center;
 	padding: 10px 4px 0px 30px;
 	height: 34px;
