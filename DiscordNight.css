@@ -84,8 +84,8 @@
 	
 	--primary-700: #000000;
 	
-	--primary-dark-600-rgb: 17,17,17;
-	--primary-dark-660-rgb: 26,26,26;
+	--primary-dark-600-rgb: 0,0,0;
+	--primary-dark-660-rgb: 0,0,0;
 	--green-360: var(--status-positive-background); /* #43B581 */
 	
 	--background-primary: #000000;									/* #36393F */
@@ -94,9 +94,9 @@
 	--background-accent: #000000;									/* #4F545C */
 	--background-secondary-alt: #000000;							/* #292B2F */
 	--background-floating: #000000;									/* #18191C */
-	--background-modifier-accent: #292929;							/* rgb(79 84 92 / 48%); */
+	--background-modifier-accent: #000000;							/* rgb(79 84 92 / 48%); */
 	--activity-card-background: #000000;							/* #202225 */
-	--channeltextarea-background: #1B1B1B;							/* #40444B */
+	--channeltextarea-background: #000000;							/* #40444B */
 	--channels-default: #8E9297;									/* #8E9297 */
 	--modal-background: #000000;
 	--modal-footer-background: #000000;
@@ -106,9 +106,9 @@
 	--scrollbar-thin-thumb: #000000;
 	--scrollbar-thin-track: transparent;
 	
-	--background-modifier-hover: rgba(0,0,0,0.15);
-	--background-modifier-active: rgba(0,0,0,0.2);
-	--background-modifier-selected: rgba(0,0,0,0.3);
+	--background-modifier-hover: rgba(0,0,0,0);
+	--background-modifier-active: rgba(0,0,0,0);
+	--background-modifier-selected: rgba(0,0,0,0);
 
 	--background-mentioned: rgba(250, 166, 26, 0.05);				/* rgba(250, 166, 26, 0.05) */
 	--background-mentioned-hover: rgba(250, 166, 26, 0.08);			/* rgba(250, 166, 26, 0.08) */
@@ -117,7 +117,7 @@
 
 	--text-normal: #DCDDDE;											/* #DCDDDE */
 	--text-muted: #777777;											/* #72767D */
-	--header-secondary: #CCCCCC;									/* #B9BBBE */
+	--header-secondary: #000000;									/* #B9BBBE */
 	--text-positive: hsl(152, calc(var(--saturation-factor, 1) * 48%), 48.6%);
 	--text-warning: hsl(38, calc(var(--saturation-factor, 1) * 95.7%), 54.1%);
 	--text-danger: hsl(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%);
