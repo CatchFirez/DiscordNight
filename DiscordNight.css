@@ -1585,27 +1585,27 @@
 	padding: 0px 2px;
 }
 .privateChannels-oVe7HL .searchBar-3TnChZ .searchBarComponent-3N7dCG {
-	background: var(--bg-overlay-3,#000000);
+	background: var(--bg-overlay-3,#141414);
 	border: none;
 	font-size: 13px;
 	text-align: center;
 }
 .privateChannels-oVe7HL .searchBar-3TnChZ .searchBarComponent-3N7dCG:hover {
-	background: var(--bg-overlay-3,#000000);
+	background: var(--bg-overlay-3,#161616);
 }
 /* DM's Search Box Modal */
 .quickswitcher-pKcM9U {
-	background-color: #000000;
+	background-color: #161616;
 	box-shadow: none;
 	padding: 18px 18px 0;
 }
 .quickswitcher-pKcM9U .input-3r5zZY,
 .quickswitcher-pKcM9U .result-u66Ywh[aria-selected=true],
 .quickswitcher-pKcM9U .autocompleteQuerySymbol-1iAOG7 {
-	background-color: #000000;
+	background-color: #1E1E1E;
 }
 .quickswitcher-pKcM9U .scroller-2qwVWY::-webkit-scrollbar-thumb {
-	background-color: #000000;
+	background-color: #111111;
 	border: 4px solid #141414;
 }
 .quickswitcher-pKcM9U .scroller-2qwVWY::-webkit-scrollbar-track {
