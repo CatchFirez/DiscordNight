@@ -117,7 +117,7 @@
 
 	--text-normal: #DCDDDE;											/* #DCDDDE */
 	--text-muted: #777777;											/* #72767D */
-	--header-secondary: #000000;									/* #B9BBBE */
+	--header-secondary: #CCCCCC;									/* #B9BBBE */
 	--text-positive: hsl(152, calc(var(--saturation-factor, 1) * 48%), 48.6%);
 	--text-warning: hsl(38, calc(var(--saturation-factor, 1) * 95.7%), 54.1%);
 	--text-danger: hsl(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%);
