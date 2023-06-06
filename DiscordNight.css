@@ -82,10 +82,10 @@
 	--brand-experiment-560: var(--bd-blue-hover);
 	--brand-experiment-600: var(--bd-blue-active);
 	
-	--primary-700: #262626;
+	--primary-700: #000000;
 	
-	--primary-dark-600-rgb: 17,17,17;
-	--primary-dark-660-rgb: 26,26,26;
+	--primary-dark-600-rgb: 0,0,0;
+	--primary-dark-660-rgb: 0,0,0;
 	--green-360: var(--status-positive-background); /* #43B581 */
 	
 	--background-primary: #000000;									/* #36393F */
