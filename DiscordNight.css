@@ -1489,7 +1489,7 @@
 }
 /* DM List */
 .privateChannels-oVe7HL [class^='scroller'] {
-	background-color: #000000;
+	background-color: #161616;
 	margin: -8px 0px -8px -8px;
 }
 .privateChannels-oVe7HL [class^='scroller']:hover {
@@ -1501,10 +1501,10 @@
 }
 .privateChannels-oVe7HL .channel-1Shao0 .interactiveSelected-29CP8y,
 .privateChannels-oVe7HL .channel-1Shao0 .interactiveSelected-29CP8y:hover {
-	background-color: #000000 !important;
+	background-color: #111111 !important;
 }
 .privateChannels-oVe7HL .channel-1Shao0 .interactive-iyXY_x:hover {
-	background-color: #000000;
+	background-color: #131313;
 }
 /*
 .privateChannels-oVe7HL [data-user-id] .interactive-iyXY_x::before {
@@ -1617,7 +1617,7 @@
 
 /* DM User AKA Tag */
 .title-31SJ6t .akaBadge-3i7V3p {
-	background-color: #000000;
+	background-color: #202020;
 	font-size: 11px;
 	margin-right: -6px;
 	margin-left: 0px;
